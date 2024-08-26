@@ -113,7 +113,9 @@ HAVING ORDER_IT = (SELECT COUNT(DISTINCT OL.item_name ) FROM `Order_Items` OL);
 Insight: Lists customers who have ordered every item available, indicating highly engaged customers.
 
 **Dashboard**
+<br>
 <a href="https://ibb.co/kQtxFxq"><img src="https://i.ibb.co/HnjVQVG/Screenshot-2024-08-26-at-7-03-46-PM.png" alt="Screenshot-2024-08-26-at-7-03-46-PM" border="0"></a>
+Link : https://lookerstudio.google.com/reporting/09d174c2-9c03-4eaa-a225-116516f3da39/page/OUz9D
 
 
 **Conclusion:** 
